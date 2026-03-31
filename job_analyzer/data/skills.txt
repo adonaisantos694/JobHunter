@@ -1,0 +1,16 @@
+python
+sql
+git
+oop
+object oriented programming
+api
+data analysis
+data visualization
+excel
+dashboard
+debugging
+problem solving
+file handling
+algorithms
+clean code
+software development

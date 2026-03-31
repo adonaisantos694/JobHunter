@@ -1,0 +1,47 @@
+name: Adonai dos Santos Soares
+email: adonaisoares694@gmail.com
+phone: +55 85 98920-2995
+birth_date: 07/01/2003
+education: Mate Academy (Python Developer Track)
+
+summary:
+Junior Python Developer focused on data analysis and backend fundamentals.
+Experience with Python, SQL, and data visualization. Strong understanding of OOP concepts and problem solving.
+
+courses:
+python basics
+git and terminal
+python core part 1
+sql
+
+skills:
+python
+sql
+git
+oop
+encapsulation
+data analysis
+excel
+data visualization
+dashboard
+problem solving
+debugging
+code organization
+basic algorithms
+file handling
+api basics
+
+tools:
+excel
+git
+github
+sqlite
+vscode
+
+projects:
+sales data analysis dashboard
+data processing scripts in python
+
+languages:
+portuguese (native)
+english (advanced)
